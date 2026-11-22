@@ -1,4 +1,3 @@
-
 import streamlit as st
 import streamlit.components.v2 as components
 from web3 import Web3
